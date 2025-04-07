@@ -1,6 +1,17 @@
 # 🌲 Forest Operations
 
 Aplicação frontend para visualização e análise de dados de equipamentos utilizados em operações florestais. Desenvolvido para auxiliar gestores no monitoramento de produtividade e estado dos ativos da operação.
+---
+<br/>
+
+![Visualização com filtros aplicados](./src/assets/img/testeFiltro.png)
+
+<br/>
+<br/>
+
+![Visualização com filtros aplicados](./src/assets/img/testeHitorico.png)
+
+<br/>
 
 ---
 
