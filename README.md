@@ -2,6 +2,8 @@
 
 Aplicação frontend para visualização e análise de dados de equipamentos utilizados em operações florestais. Desenvolvido para auxiliar gestores no monitoramento de produtividade e estado dos ativos da operação.
 ---
+🎥 [Vídeo de demonstração](https://www.loom.com/share/04fdf925b38f4c8884939085319bc2a1) : https://www.loom.com/share/04fdf925b38f4c8884939085319bc2a1
+
 <br/>
 
 ![Visualização com filtros aplicados](./src/assets/img/testeFiltro.png)
